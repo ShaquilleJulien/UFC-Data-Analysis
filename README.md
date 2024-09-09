@@ -19,25 +19,25 @@ The project was centered around data from the UFC from 1993 to 2021. I'll be car
 - The data set used contains names of fighters and diffrent performance matrics and statistics.
 
 # Analysis carried out 
-##  Data Cleaning:
+Data Cleaning:
 Managing missing values
 Eliminating duplicates
 Addressing datatype inconsistencies
 Correlation Analysis:
 
-## Generating a correlation matrix
+Generating a correlation matrix:
 Geographical Visualization:
 Data wrangling and cleaning
 Plotting and creating choropleth maps
 
-## Regression Analysis:
+Regression Analysis:
 Performing regression with various variables
 
-## Machine Learning (Part 2):
+Machine Learning:
 The elbow method for model optimization
 K-means clustering
 
-## Sourcing and Analyzing Time-Series Data:
+Sourcing and Analyzing Time-Series Data:
 Subsetting, wrangling, and cleaning time-series data
 Conducting time-series decomposition
 Testing for stationarity
