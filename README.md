@@ -42,4 +42,7 @@ Sourcing and Analyzing Time-Series Data:
 - Subsetting, wrangling, and cleaning time-series data
 - Conducting time-series decomposition
 - Testing for stationarity
+
+# Tableau 
+[UFC Analysis] (https://public.tableau.com/shared/N9R3CRTW4?:display_count=n&:origin=viz_share_link)
   
