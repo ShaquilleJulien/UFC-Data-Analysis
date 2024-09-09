@@ -20,25 +20,26 @@ The project was centered around data from the UFC from 1993 to 2021. I'll be car
 
 # Analysis carried out 
 Data Cleaning:
-Managing missing values
-Eliminating duplicates
-Addressing datatype inconsistencies
-Correlation Analysis:
+- Managing missing values
+- Eliminating duplicates
+- Addressing datatype inconsistencies
 
-Generating a correlation matrix:
+Correlation Analysis:
+ - Generating a correlation matrix
+
 Geographical Visualization:
-Data wrangling and cleaning
-Plotting and creating choropleth maps
+- Data wrangling and cleaning
+- Plotting and creating choropleth maps
 
 Regression Analysis:
-Performing regression with various variables
+- Performing regression with various variables
 
 Machine Learning:
-The elbow method for model optimization
-K-means clustering
+- The elbow method for model optimization
+- K-means clustering
 
 Sourcing and Analyzing Time-Series Data:
-Subsetting, wrangling, and cleaning time-series data
-Conducting time-series decomposition
-Testing for stationarity
+- Subsetting, wrangling, and cleaning time-series data
+- Conducting time-series decomposition
+- Testing for stationarity
   
