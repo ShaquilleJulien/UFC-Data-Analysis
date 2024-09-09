@@ -16,7 +16,7 @@ The project was centered around data from the UFC from 1993 to 2021. I'll be car
 - Scipy
 
 # Data Used
-- The data set used contains names of fighters and diffrent performance matrics and statistics.
+- The data set used contains names of fighters and different performance matrics and statistics.
 
 # Analysis carried out 
 Data Cleaning:
